@@ -118,19 +118,19 @@ ul li a:hover{
 			transform:translate(-50%,-50%);
 }
 .butn1 {
-			top:1800px;
+			top:2200px;
 			left:19.5%; 
 }
 .butn2 {
-			top:1800px;		
+			top:2200px;		
 			left:44.5%;
 }
 .butn3 {
-			top:1800px;
+			top:2200px;
 			left:69.5%;
 }
 .butn4 {
-			top:1800px;
+			top:2200px;
 			left:94.5%;
 }
 
@@ -146,7 +146,7 @@ ul li a:hover{
 			width:400px;
 			height:300px;
 			position:absolute;
-			top: 2170px ;
+			top: 2270px ;
 			left:50%;		
 			transform:translate(-50%,-50%);
 			padding:70px 30px;
@@ -356,7 +356,7 @@ ul li a{padding :8px 13px;}
 }
 
 .contbox{
-			top: 2930px ;
+			top: 3195px ;
 			left:50%;		
 }
 .dropdown{
