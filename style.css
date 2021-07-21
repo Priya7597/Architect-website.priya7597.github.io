@@ -215,26 +215,26 @@ ul{
 }
 
 .butn1 {
-			top:3130px;
+			top:3160px;
 			left:85%; 
 }
 .butn2 {
-			top:3415px;		
+			top:3445px;		
 			left:85%;
 }
 .butn3 {
-			top:3700px;
+			top:3740px;
 			left:85%;
 }
 .butn4 {
-			top:3965px;
+			top:3995px;
 			left:85%;
 }
 
 .contbox{
 			width:300px;
 			height:200px;			
- 		margin-top: 2255px ;
+ 		margin-top: 2210px ;
 			left:50%;
 }
 .contbox input[type="text"]{
@@ -315,10 +315,12 @@ ul{
 
 ul{
 			margin-top:6px;
-			margin-left:250px;		
+			margin-left:350px;		
 }
 	
+name{font-size:22px;} 
 
+						
 		
 
 			
@@ -337,19 +339,19 @@ ul li a{padding :8px 13px;}
 			float: left;
 }
 .butn1 {
-			top:2100px;
+			top:2635px;
 	 	margin-left:150px;			; 
 }
 .butn2 {
-			top:2100px;		
+			top:2635px;		
 			left:90%;
 }
 .butn3 {
-			top:2390px;
+			top:2915px;
 			left:40%;
 }
 .butn4 {
-			top:2390px;
+			top:2915px;
 			left:90%;
 }
 
